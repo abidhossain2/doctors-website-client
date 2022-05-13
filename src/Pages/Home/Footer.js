@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import footerbg from '../assets/images/footer.png'
+import footerbg from '../../assets/images/footer.png'
 
 const Footer = () => {
     const bosor = new Date();
@@ -31,7 +31,7 @@ const Footer = () => {
             </div>
             <footer className="footer footer-center p-4 text-base-content">
                 <div>
-                    <p>Copyright © {year} - All right reserved by ACME Industries Ltd</p>
+                    <p>Copyright © {year} - All right reserved</p>
                 </div>
             </footer>
         </footer>

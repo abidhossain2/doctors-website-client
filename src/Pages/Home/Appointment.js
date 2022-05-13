@@ -1,6 +1,6 @@
 import React from 'react';
-import doctor from '../assets/images/doctor.png'
-import doctorBg from '../assets/images/appointment.png'
+import doctor from '../../assets/images/doctor.png'
+import doctorBg from '../../assets/images/appointment.png'
 
 const Appointment = () => {
     return (

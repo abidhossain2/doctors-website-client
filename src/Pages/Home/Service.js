@@ -1,8 +1,8 @@
 import React from 'react';
-import fluoride from '../assets/images/fluoride.png'
-import cavity from '../assets/images/cavity.png'
-import teeth from '../assets/images/whitening.png'
-import dentalCare from '../assets/images/treatment.png'
+import fluoride from '../../assets/images/fluoride.png'
+import cavity from '../../assets/images/cavity.png'
+import teeth from '../../assets/images/whitening.png'
+import dentalCare from '../../assets/images/treatment.png'
 
 const Service = () => {
     return (

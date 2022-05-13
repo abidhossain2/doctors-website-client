@@ -1,5 +1,5 @@
 import React from 'react';
-import formbg from '../assets/images/appointment.png'
+import formbg from '../../assets/images/appointment.png'
 
 const Form = () => {
     return (
